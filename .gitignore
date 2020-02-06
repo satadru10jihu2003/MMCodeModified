@@ -3,3 +3,6 @@
 ################################################################################
 
 /MeetingManagerAPI/MeetingManagerAPI/bin
+/MeetingManagerAPI/MeetingManagerAPI/obj/Release/netcoreapp2.1
+/MeetingManagerAPI/MeetingManagerAPI/obj
+/MeetingManagerAPI/MeetingManagerAPI/obj
